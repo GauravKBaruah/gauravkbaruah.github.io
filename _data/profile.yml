@@ -1,6 +1,6 @@
 primary_name: "Gaurav Baruah"
 secondary_name: ""
-navbar_name: "Gaurav"
+navbar_name: "Gaurav Baruah"
 
 positions:
 - logo: /assets/images/badges/PKU_red.png  # Logo is optional
@@ -10,9 +10,9 @@ positions:
 
 email: "gaurav.baruah@uni-bielefeld.de"
 # cv_link: link-to-your-cv-file
-gscholar: your_google_scholar_id
-github: your_github_id
-twitter: your_twitter_id
+gscholar: NUBQBAsAAAAJ&hl
+github: GauravKBaruah
+twitter: gauravKBaruah
 # wechat_qrcode: /assets/images/etc/wechat.jpg
 # wechat_prompt: >-
 #   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
@@ -36,12 +36,12 @@ education:
 - name: University of Bielefeld
   logo: /assets/images/badges/PKU_red.png
   position: DFG Walter-Benjamin Post doctorate
-  date: Feb 2023-
+  date: Feb 2023-present
 
-# experience:
-# - name: Peking University
+ experience:
+ - name: University of Zurich, CH.
 #   logo: /assets/images/badges/PKU_red.png
-#   position: Research Intern
+   position: PhD
 #   date: Sep. 2019 - Jul. 2021
 
 
