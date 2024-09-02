@@ -3,7 +3,7 @@ secondary_name: ""
 navbar_name: "Gaurav Baruah"
 
 positions:
-- logo: /assets/images/badges/PKU_red.png
+- logo: /assets/images/badges/unib.png
   name: DFG Walter-Benjamin Post Doctorate @ Bielefeld University
   # Logo is optional
 - name: Post Doctorate, Swiss Federal Institute of Aquatic Science and Technology, CH (2020-2022).
@@ -22,8 +22,7 @@ twitter: gaurav_Kbaruah
 
 short_bio: >-
   <p>
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Hello there! I am Gaurav Baruah, a DFG Walter-Benjamin Postdoc at Bielefeld University in Theoretical Biology group, Faculty of Biology. I currently am working on multiple research projects related to adaptive species rewiring and eco-evolutionary feedbacks on resilience of mutualistic networks, resurrection of collasped ecological networks, evolutionary consequences of competition on species coexistence, and evolution of partial migration. These projects are all theoretical explorations, with empirical data being collected thanks to openly accessible data from various databases.
   </p>
   <p>
     Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
@@ -34,31 +33,21 @@ portrait_caption: >-
   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 
-appointments:
-- name: University of Bielefeld
-  logo: /assets/images/badges/PKU_red.png
-  position: DFG Walter-Benjamin Post doctorate
-  date: Jan. 2023 - present
-  
-- name: Swiss Federal Institute of Aquatic Science and Technology, EAWAG
-  logo: /assets/images/badges/PKU_red.png
-  position: Post doctorate
-  date: April. 2020 -  Aug. 2022
 
 education:
 - name: University of Zurich
-  logo: /assets/images/badges/PKU_red.png
+  logo: /assets/images/badges/uniz.png
   position: PhD student
   date: Sep. 2015 - Feb. 2020
 
 - name: IISER Kolkata
-  logo: /assets/images/badges/PKU_red.png
+  logo: /assets/images/badges/iiserk.png
   position : Integrated BS & MS
   date: Aug. 2010 - May. 2015
    
 experience:
 - name: University of Toronto, Canada
-  logo: assets/images/badges/PKU_red.png
+  logo: assets/images/badges/uoft.png
   position: Summer Research Intern
   date: May. 2014 - Aug. 2014
 
