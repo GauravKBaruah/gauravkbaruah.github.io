@@ -32,17 +32,35 @@ portrait_url: /assets/images/photos/portrait.jpg
 portrait_caption: >-
   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
-education:
-- name: University of Bielefeld
+
+academic appointments:
+  name: University of Bielefeld
   logo: /assets/images/badges/PKU_red.png
   position: DFG Walter-Benjamin Post doctorate
-  date: Feb 2023-present
+  date: Jan. 2023 - present
+  
+  name: Swiss Federal Institute of Aquatic Science and Technology, EAWAG
+  logo: /assets/images/badges/PKU_red.png
+  position: Post doctorate
+  date: April. 2020 -  Aug. 2022
 
- experience:
- - name: University of Zurich, CH.
-#   logo: /assets/images/badges/PKU_red.png
-   position: PhD
-#   date: Sep. 2019 - Jul. 2021
+education:
+- name: University of Zurich
+  logo: /assets/images/badges/PKU_red.png
+  position: PhD student
+  date: Sep. 2015 - Feb. 2020
+
+- name: IISER Kolkata
+  logo: /assets/images/badges/PKU_red.png
+  position : BS-MS
+  date: Aug. 2010 - May. 2015
+   
+experience:
+ - name: University of Toronto, Canada
+   logo: /assets/images/badges/UIUC_seal.png
+   position: Summer Research Intern
+   date: May. 2014 - Aug. 2014
+
 
 
 Grants:
