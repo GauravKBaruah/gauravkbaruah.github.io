@@ -4,7 +4,7 @@ navbar_name: "Gaurav Baruah"
 
 positions:
 - logo: /assets/images/badges/PKU_red.png
-- name: DFG Walter-Benjamin Post Doctorate @ Bielefeld University
+  name: DFG Walter-Benjamin Post Doctorate @ Bielefeld University
   # Logo is optional
 - name: Post Doctorate, Swiss Federal Institute of Aquatic Science and Technology, CH (2020-2022).
 
@@ -64,7 +64,7 @@ experience:
 
 
 
-Grants:
+grants:
 - name: Award Name 2
   date: 2024
 - name: Award Name 1 
