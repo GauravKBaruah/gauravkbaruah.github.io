@@ -34,12 +34,12 @@ portrait_caption: >-
 
 
 academic appointments:
-  name: University of Bielefeld
+- name: University of Bielefeld
   logo: /assets/images/badges/PKU_red.png
   position: DFG Walter-Benjamin Post doctorate
   date: Jan. 2023 - present
   
-  name: Swiss Federal Institute of Aquatic Science and Technology, EAWAG
+- name: Swiss Federal Institute of Aquatic Science and Technology, EAWAG
   logo: /assets/images/badges/PKU_red.png
   position: Post doctorate
   date: April. 2020 -  Aug. 2022
@@ -52,14 +52,14 @@ education:
 
 - name: IISER Kolkata
   logo: /assets/images/badges/PKU_red.png
-  position : BS-MS
+  position : Integrated BS & MS
   date: Aug. 2010 - May. 2015
    
 experience:
- - name: University of Toronto, Canada
-   logo: /assets/images/badges/UIUC_seal.png
-   position: Summer Research Intern
-   date: May. 2014 - Aug. 2014
+- name: University of Toronto, Canada
+  logo: /assets/images/badges/UIUC_seal.png
+  position: Summer Research Intern
+  date: May. 2014 - Aug. 2014
 
 
 
