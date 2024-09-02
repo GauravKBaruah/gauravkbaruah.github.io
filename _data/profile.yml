@@ -1,6 +1,6 @@
-primary_name: "Your Name"
+primary_name: "Gaurav Baruah"
 secondary_name: ""
-navbar_name: "Your Name"
+navbar_name: "Gaurav"
 
 positions:
 - logo: /assets/images/badges/PKU_red.png  # Logo is optional
@@ -8,7 +8,7 @@ positions:
 - name: Position 2 without logo
 
 
-email: "your@email.com"
+email: "gaurav.baruah@uni-bielefeld.de"
 # cv_link: link-to-your-cv-file
 gscholar: your_google_scholar_id
 github: your_github_id
@@ -33,10 +33,10 @@ portrait_caption: >-
   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
-- name: Peking University
+- name: University of Bielefeld
   logo: /assets/images/badges/PKU_red.png
-  position: B.S. in Computer Science
-  date: Sep. 2017 - Jul. 2021
+  position: DFG Walter-Benjamin Post doctorate
+  date: Feb 2023-
 
 # experience:
 # - name: Peking University
@@ -45,7 +45,7 @@ education:
 #   date: Sep. 2019 - Jul. 2021
 
 
-awards:
+Grants:
 - name: Award Name 2
   date: 2024
 - name: Award Name 1 
