@@ -1,21 +1,16 @@
 ---
-title:          "Pharetra Massa Massa Ultricies Mi Nisl Tincidunt"
-date:           2023-01-21 00:01:00 +0800
+title:          "Transitions and its indicators in mutualistic meta-networks: effects of network topology, size of metacommunities and species dispersal"
+date:           2023-04-10 00:01:00 +0800
 selected:       false
-pub:            "International Conference on Learning Representations (ICLR)"
+pub:            "Evolutionary Ecology"
 pub_date:       "2023"
 abstract: >-
-  Photo by Dessy Dimcheva on Unsplash. Viverra nibh cras pulvinar mattis nunc sed. Quam quisque id diam vel quam elementum pulvinar etiam. Ac felis donec et odio pellentesque. Ligula ullamcorper malesuada proin libero nunc consequat interdum varius sit. A pellentesque sit amet porttitor eget. Magna fermentum iaculis eu non diam phasellus vestibulum lorem sed.
+  Gradual changes in the environment could cause dynamical ecological networks to suddenly shift from one state to an alternative state. When this happens ecosystem functions and services provided by ecological networks get disrupted. We, however, know very little about how the topology of such interaction networks can play a role in the transition of ecological networks when spatial interactions come into play. In the event of such unwanted transitions, little is known about how statistical metrics used to inform such impending transitions, measured at the species-level or at the community-level could relate to network architecture and the size of the metacommunity..
 
-cover:          /assets/images/covers/cover2.jpg
+cover:          /assets/images/covers/cover_ecevo.png
 authors:
-  - Charles Green (MIT)*
-  - John Doe*
-  - Robert White
-  - James Wang
-  - Your Name#
+  - Gaurav Baruah
 links:
-  Paper: https://www.biorxiv.org
-  Code: https://github.com
-  Unsplash: https://unsplash.com/photos/orange-fruit-on-white-table-cloth-ISX_imp8t1o
+  Paper: https://link.springer.com/article/10.1007/s10682-023-10239-3
+  Code: https://github.com/GauravKBaruah/spatial_tipping_points
 ---

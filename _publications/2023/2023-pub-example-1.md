@@ -8,7 +8,7 @@ pub:            "Ecology Letters"
 pub_date:       "2022"
 
 abstract: >-
- Individual variation is central to species involved in complex interactions with others in an ecological system. Such ecological systems could exhibit tipping points in response to changes in the environment, consequently leading to abrupt transitions to alternative, often less desirable states. However, little is known about how individual trait variation could influence the timing and occurrence of abrupt transitions. Using 101 empirical mutualistic networks, I model the eco-evolutionary dynamics of such networks in response to gradual changes in strength of co-evolutionary interactions.
+ Individual variation is central to species involved in complex interactions with others in an ecological system. Such ecological systems could exhibit tipping points in response to changes in the environment, consequently leading to abrupt transitions to alternative, often less desirable states. However, little is known about how individual trait variation could influence the timing and occurrence of abrupt transitions. Using 101 empirical mutualistic networks, I model the eco-evolutionary dynamics of such networks in response to gradual changes in strength of co-evolutionary interactions...
 cover:          /assets/images/covers/cover_eco_lets.png
 authors:
   - Gaurav Baruah
