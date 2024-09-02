@@ -33,7 +33,7 @@ portrait_caption: >-
   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 
-academic appointments:
+appointments:
 - name: University of Bielefeld
   logo: /assets/images/badges/PKU_red.png
   position: DFG Walter-Benjamin Post doctorate
@@ -57,7 +57,7 @@ education:
    
 experience:
 - name: University of Toronto, Canada
-  logo: /assets/images/badges/UIUC_seal.png
+  logo: assets/images/badges/PKU_red.png
   position: Summer Research Intern
   date: May. 2014 - Aug. 2014
 
