@@ -4,9 +4,9 @@ navbar_name: "Gaurav Baruah"
 
 positions:
 - logo: /assets/images/badges/unib.png
-  name: DFG Walter-Benjamin Post Doctorate @ Bielefeld University
+  name: DFG Walter-Benjamin Post Doc @ Bielefeld University
   # Logo is optional
-- name: Post Doctorate, Swiss Federal Institute of Aquatic Science and Technology, CH (2020-2022).
+- name: Post Doc, Swiss Federal Institute of Aquatic Science and Technology, CH.
 
 
 email: "gaurav.baruah@uni-bielefeld.de"
@@ -37,12 +37,12 @@ portrait_caption: >-
 education:
 - name: University of Zurich
   logo: /assets/images/badges/uzh.png
-  position: PhD student
+  position: PhD in Ecology
   date: Sep. 2015 - Feb. 2020
 
 - name: IISER Kolkata
   logo: /assets/images/badges/iiserk.png
-  position : Integrated BS & MS
+  position : Integrated BS & MS in Biology
   date: Aug. 2010 - May. 2015
    
 experience:
@@ -54,9 +54,13 @@ experience:
 
 
 grants:
-- name: Award Name 2
-  date: 2024
-- name: Award Name 1 
-  date: 2021
-- name: A quick brown fox jumps over the lazy dog and runs away award
-  date: 2021
+- name: DFG Walter-Benjamin Research Grant
+  date: 2023
+- name: Alexander von Humboldt Post Doctoral Fellowship 
+  date: 2023
+- name: UZH Forschungskredit Research Grant
+  date: 2019
+- name: DST Inspire Fellowship
+  date: 2010 
+- name: OIL India scholarship
+  date: 2007
