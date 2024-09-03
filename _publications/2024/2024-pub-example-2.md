@@ -9,7 +9,7 @@ pub_date:       "2024"
 
 abstract: >-
   Biodiversity collapse, driven by escalating environmental changes, poses significant threats to ecosystem stability and the provision of essential ecosystem services. Understanding the recoverability of collapsed food webs thus is crucial for devising effective conservation strategies. This study delves into the theoretical exploration of the recoverability of food webs from a collapsed state. Through simple tools like dimension reduction, propagation of species-specific perturbation, and dynamical simulations, we explore whether simple tri-trophic food webs can be recovered from a collapsed state. Our study examines in detail the topological features of predator-prey food webs that could either facilitate or impede their recovery....
-cover:          /assets/images/covers/swastik.png
+cover:          /assets/images/covers/swast.png
 authors:
   - Swastik Patnaik
   - Gaurav Baruah
