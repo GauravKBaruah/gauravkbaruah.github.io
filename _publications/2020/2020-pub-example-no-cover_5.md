@@ -3,6 +3,9 @@ title:          "Higher order interactions and species coexistence"
 date:           2020-9-9 00:01:00 +0800
 selected:       false
 pub:            "Theoretical Ecology"
+#pub_pre:        "Submitted to "
+# pub_post:       'Under review.'
+# pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
 pub_date:       "2020"
 
 abstract: >-
@@ -17,5 +20,4 @@ authors:
 links:
   Paper: https://link.springer.com/article/10.1007/s12080-020-00481-8
   Code: https://github.com/GauravKBaruah/HOI_repo
-  
 ---
