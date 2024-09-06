@@ -10,7 +10,7 @@ pub_date:       "2024"
 
 abstract: >-
   Mutualistic ecological networks can suddenly transition to undesirable states, due to small changes in environmental conditions. Recovering from such a collapse can be difficult as reversing the original environmental conditions may be infeasible. Additionally, such networks can also exhibit hysteresis, implying that ecological networks may not recover. Here, using a dynamical eco-evolutionary framework, we try to resurrect mutualistic networks from an undesirable low-functional collapse state to a high-functioning state. ..
-cover:          /assets/images/covers/plosB.jpg
+cover:          /assets/images/covers/plosB.png
 authors:
   - Gaurav Baruah
   - Meike Wittmann
