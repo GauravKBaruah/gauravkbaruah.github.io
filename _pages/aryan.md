@@ -1,0 +1,2 @@
+I'm a Bachelor's student at IISc, broadly interested in how communities come to behave as a single unit, and how variation among individuals and their habitats affects the overall dynamics. I currently work on how disturbances travel through habitat networks: when a population is knocked down in one place, how far the effect spreads, and whether it lingers. I am developing the theory for it alongside simulations, and testing the predictions on experimental results.
+Outside of work I do science communication. I'm interested in using art to convey scientific ideas, and I swim.
