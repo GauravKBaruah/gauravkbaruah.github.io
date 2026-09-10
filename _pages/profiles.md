@@ -43,6 +43,16 @@ profiles:
 
   # 5.Lab Member
   - align: right
+    image: aryan.jpg
+    content: aryan.md
+    image_circular: true 
+    more_info: >
+      <p>Aryan Awasthi, BS student </p>
+      <p> IISc, India</p>
+
+
+  # 6.Lab Member
+  - align: left
     image: philipp.jpg
     content: philipp.md
     image_circular: true 
@@ -50,7 +60,8 @@ profiles:
       <p>Philipp Sewing, BSc student </p>
       <p> Bielefeld University</p>
 
-  # 6. Lab Member
+      
+  # 7. Lab Member
   - align: right
     image: sarah.jpg
     content: sarah.md
@@ -59,7 +70,7 @@ profiles:
       <p>Sarah Antl, BSc student</p>
 
 
-# 7. Lab Member
+# 8. Lab Member
   - align: left
     image: leo.jpg
     content: leo.md
