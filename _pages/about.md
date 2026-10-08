@@ -1,45 +1,20 @@
 ---
-layout: about
-title: About
+layout: home
+title: Home
 permalink: /
-subtitle: <a href='https://ces.iisc.ac.in/'>Center for Ecological Sciences</a>, <a href='https://iisc.ac.in/'> Indian Institute of Science </a>.
-
-selected_papers: false
-social: true
-
-announcements:
-  enabled: false
-
-latest_posts:
-  enabled: false
 ---
 
-<style>
-  /* This creates a large, professional banner layout */
-  .hero-banner {
-    width: 100%;
-    text-align: center;
-    margin-bottom: 2rem;
-  }
-  
-  .hero-banner img {
-    width: 100%; /* Forces the image to fill the width of the webpage */
-    max-height: 500px; /* Prevents the image from taking up the entire screen vertically */
-    object-fit: cover; /* Crops the image beautifully without stretching or squishing */
-    border-radius: 12px; /* Gives the banner nice, modern rounded corners */
-    box-shadow: 0 4px 12px rgba(0,0,0,0.15); /* Adds a subtle shadow to make it pop */
-  }
-
-  /* Invert the banner colors automatically in Light Mode */
-  html[data-theme='light'] .hero-banner img {
-    filter: invert(1) hue-rotate(180deg) contrast(1.15);
-  } 
-</style>
-
-<div class="hero-banner">
-  <img src="{{ '/assets/img/hpage.png' | relative_url }}" alt="Lab Banner">
+<div class="home-kicker"><span>Ecology · Evolution · Resilience</span><span>IISc</span></div>
+<h1>How does life adapt,<br>persist and recover?</h1>
+<p class="home-lead">Exploring the interplay of ecology and evolution in a changing world.</p>
+<p>We study how species interactions, individual variation and adaptation shape the resilience of living systems. Our work brings together mathematical models, empirical data, microcosm experiments and fieldwork in India.</p>
+<div class="lab-actions"><a class="lab-button" href="{{ '/projects/' | relative_url }}">Explore our research →</a><a href="{{ '/join-us/' | relative_url }}">Join the lab ↗</a></div>
+<figure class="home-art"><img src="{{ '/assets/img/hpage.png' | relative_url }}" width="1448" height="1086" alt="An illustration connecting ecological networks, evolutionary processes and experimental research." fetchpriority="high"><figcaption>From individual variation to ecological networks.</figcaption></figure>
+<div class="research-heading"><h2>Our research areas</h2><a href="{{ '/projects/' | relative_url }}">All research →</a></div>
+<div class="home-themes">
+  <a href="{{ '/projects/1_project/' | relative_url }}"><span>01 / ADAPTATION</span><h3>Ecology meets evolution</h3><p>How do traits and genetic variation shape responses to environmental change?</p></a>
+  <a href="{{ '/projects/2_project/' | relative_url }}"><span>02 / INTERACTIONS</span><h3>Networks that change</h3><p>How do species rewire their interactions and reshape communities?</p></a>
+  <a href="{{ '/projects/7_project/' | relative_url }}"><span>03 / RESILIENCE</span><h3>Collapse and recovery</h3><p>Why do ecosystems cross tipping points, and how can they recover?</p></a>
 </div>
-
-We are a newly founded lab based at <a href='https://ces.iisc.ac.in/'>Center for Ecological Sciences</a>, <a href='https://iisc.ac.in/'> Indian Institute of Science </a>, Bangaluru, India.  
-We develop theory and work on the interface of theoretical ecology and evolutionary dynamics. We try to validate our theoretical frameworks with empirical data, microcosm experiments, and fieldwork in India. 
-
+<section class="lab-callout"><h2>Curious minds are welcome.</h2><p>We value open questions, respectful disagreement and reproducible research. Interns are welcome; paid positions are not currently available.</p><a href="{{ '/join-us/' | relative_url }}">Opportunities and lab culture →</a></section>
+<section class="lab-contact"><h2>Get in touch</h2><p>Questions, ideas or potential collaborations? Contact <a href="mailto:{{ site.email }}">Gaurav Baruah</a>.</p></section>

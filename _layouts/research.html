@@ -1,0 +1,10 @@
+---
+layout: page
+---
+
+{{ content }} {% if page.related_publications %}
+<section class="publications research-references" aria-label="References">
+  <h2>References</h2>
+  {% bibliography --cited %}
+</section>
+{% endif %}

@@ -1,8 +1,9 @@
 ---
-layout: page
-title: Rewiring, and the architecture of species interactions
-description: Understanding adaptive interaction dynamics
-img: assets/img/rewiring.jpg # This is the thumbnail for the main Research page
+layout: research
+permalink: /projects/2_project/
+title: Rewiring and the architecture of species interactions
+description: How adaptive interactions reshape ecological networks.
+img: assets/img/rewiring.jpg
 importance: 2
 category: work
 related_publications: true
@@ -24,7 +25,6 @@ In plant-pollinator systems, for example, dispersal and environmental heterogene
 <div class="caption">
     Over eco-evolutionary time species in a network adaptively rewire themselves in the phenological space shown above.
 </div>
-
 
 ### Selected References
 

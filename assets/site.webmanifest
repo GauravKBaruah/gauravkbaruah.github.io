@@ -1,0 +1,17 @@
+---
+---
+{
+  "name": "Eco-Evo Dynamical Resilience Lab",
+  "short_name": "Eco-Evo Lab",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#ffffff",
+  "theme_color": "#173e35",
+  "icons": [
+    {
+      "src": "/assets/img/logo.png",
+      "sizes": "any",
+      "type": "image/png"
+    }
+  ]
+}
