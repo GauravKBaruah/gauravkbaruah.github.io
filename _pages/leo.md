@@ -1,3 +1,0 @@
-Leopold Mürtz is currently completing his BSc thesis within the Eco-Evo Dynamical Resilience Lab. Prior to this, he successfully finished a project module in the Theoretical Biology AG, where he focused on incorporating temperature fluctuations into an eco-evolutionary model.
-He has been studying Bioinformatics and Genome Research since 2021 in Bielefeld. Alongside his studies, he has been working as a student assistant at NTT Data Business Solutions AG since 2023.
-His academic interests center on mathematical modelling and data analysis, particularly in the context of complex biological systems.

@@ -1,1 +1,34 @@
-import{highlightSearchTerm}from"./highlight-search-term.js";document.addEventListener("DOMContentLoaded",function(){const e=e=>{if(document.querySelectorAll(".bibliography, .unloaded").forEach(e=>e.classList.remove("unloaded")),CSS.highlights){const t=highlightSearchTerm({search:e,selector:".bibliography > li"});if(null==t)return;t.forEach(e=>{e.classList.add("unloaded")})}else document.querySelectorAll(".bibliography > li").forEach(t=>{-1==t.innerText.toLowerCase().indexOf(e)&&t.classList.add("unloaded")});document.querySelectorAll("h2.bibliography").forEach(function(e){let t=e.nextElementSibling,l=!0;for(;t&&"H2"!==t.tagName;){if("OL"===t.tagName){const e=t,n=e.querySelectorAll(":scope > li.unloaded"),o=e.querySelectorAll(":scope > li");n.length===o.length?(e.previousElementSibling.classList.add("unloaded"),e.classList.add("unloaded")):l=!1}t=t.nextElementSibling}l&&e.classList.add("unloaded")})},t=()=>{const t=decodeURIComponent(window.location.hash.substring(1));document.getElementById("bibsearch").value=t,e(t)};let l;document.getElementById("bibsearch").addEventListener("input",function(){clearTimeout(l);const t=this.value.toLowerCase();l=setTimeout(e(t),300)}),window.addEventListener("hashchange",t),t()});
+document.addEventListener("DOMContentLoaded", () => {
+  const input = document.getElementById("bibsearch");
+  if (!input) return;
+  const entries = [...document.querySelectorAll(".publications .bibliography > li")];
+  const status = document.getElementById("publication-search-status");
+  const normalize = (text) =>
+    text
+      .normalize("NFD")
+      .replace(/[\u0300-\u036f]/g, "")
+      .toLowerCase();
+  const index = entries.map((entry) => normalize(entry.textContent));
+  function filter() {
+    const terms = normalize(input.value).trim().split(/\s+/).filter(Boolean);
+    let count = 0;
+    entries.forEach((entry, i) => {
+      entry.hidden = !terms.every((term) => index[i].includes(term));
+      if (!entry.hidden) count++;
+    });
+    document.querySelectorAll(".publications ol.bibliography").forEach((list) => {
+      list.hidden = ![...list.children].some((entry) => !entry.hidden);
+      const heading = list.previousElementSibling;
+      if (heading && heading.matches("h2.bibliography, h3.bibliography")) heading.hidden = list.hidden;
+    });
+    document.querySelectorAll(".publication-section").forEach((section) => {
+      section.hidden = ![...section.querySelectorAll(".bibliography > li")].some((entry) => !entry.hidden);
+    });
+    status.textContent = count
+      ? `${count} publication${count === 1 ? "" : "s"}${terms.length ? " found" : ""}.`
+      : "No publications found. Try another title, author or keyword.";
+  }
+  input.addEventListener("input", filter);
+  // Section anchors remain navigation anchors, never search terms.
+  filter();
+});
