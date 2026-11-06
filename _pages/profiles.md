@@ -54,8 +54,16 @@ profiles:
     more_info: "<p>Philipp Sewing, BSc student </p> <p> Bielefeld University</p>
 
       "
-    name: Philipp Sewing
+    name: Ritabrata Saha
   - align: right
+    image: rito.jpg
+    content: rito.md
+    image_circular: true
+    more_info: "<p>Rito Saha, BS student, Physical Sciences </p><p> IISc, India</p>
+
+      "
+    name: Philipp Sewing
+  - align: left
     image: sarah.jpg
     content: sarah.md
     image_circular: true
